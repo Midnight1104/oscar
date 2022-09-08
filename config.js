@@ -4,7 +4,7 @@ let chalk = require('chalk')
 global.owner = [
   ['6281517621088'],
   ['6281517621088'],
-  ['6281517621088', 'Owner', true]
+  ['6281517621088'], 'Owner', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.fotonya1 = 'https://telegra.ph/file/00ca947f49354f6c108da.jpg' //ini kalo mau di ganti silahkan ganti aja
